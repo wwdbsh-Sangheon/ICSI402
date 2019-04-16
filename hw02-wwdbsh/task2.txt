@@ -1,0 +1,3 @@
+1. wc -w file{1,2,3}.txt
+2. grep -c nologin /etc/passwd
+3. du -a /usr/bin | sort -n -r | head -n 6
