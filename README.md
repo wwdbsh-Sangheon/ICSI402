@@ -1,2 +1,2 @@
 # ICSI402
-Projects of ICSI402
+ICSI402 Projects 
